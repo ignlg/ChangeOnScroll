@@ -8,13 +8,19 @@
     "jquery": ">=1.6"
   },
   "keywords": [
-    "jQuery", "scroll"
+    "jQuery",
+    "scroll"
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
     "bower_components",
     "tests",
-    "test*.html"
+    "test*.html",
+    "node_modules",
+    "test"
+  ],
+  "authors": [
+    "Ignacio Lago"
   ]
 }
