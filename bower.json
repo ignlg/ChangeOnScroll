@@ -1,6 +1,6 @@
 {
   "name": "ChangeOnScroll",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "homepage": "http://github.com/ignlg/ChangeOnScroll",
   "description": "jQuery plugin that toggles a class name when the element (or another element) goes above the top or of the page.",
   "main": "jquery-changeonscroll.js",
