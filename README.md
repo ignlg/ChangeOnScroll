@@ -1,6 +1,8 @@
 # ChangeOnScroll
 jQuery plugin that toggles a class name when the element (or another element) goes above the top or of the page.
 
+*UPDATE:* Minified version.
+
 ## Options
 ```js
   {
@@ -20,3 +22,6 @@ jQuery plugin that toggles a class name when the element (or another element) go
     className: 'show-info'
   });
 ```
+
+## Greetings
+Thanks to Joseph Cava-Lynch (@bigspotteddog) for his [ScrollToFixed](http://bigspotteddog.github.io/ScrollToFixed/) jQuery plugin.
