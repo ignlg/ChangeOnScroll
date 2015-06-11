@@ -1,5 +1,5 @@
 # ChangeOnScroll
-jQuery plugin that toggles a class name when the element (or another element) goes above the top or of the page.
+jQuery plugin that toggles a class name when the element (or another element) goes above the top (or to the left on horizontal scroll) of the page.
 
 *UPDATE:* Minified version.
 
