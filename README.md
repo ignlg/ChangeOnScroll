@@ -34,8 +34,10 @@ jQuery plugin that toggles a class name when the element (or another element) go
 ```
 
 ```js
+  // Change photos before they're gone
   $('.photo').changeOnScroll({
-    className: 'ignored-by-user'
+    className: 'bye-bye',
+    topOffset: -100
   });
 ```
 
